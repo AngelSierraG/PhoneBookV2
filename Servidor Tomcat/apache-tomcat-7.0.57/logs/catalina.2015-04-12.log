@@ -1,0 +1,389 @@
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Server version:        Apache Tomcat/7.0.57
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Server built:          Nov 3 2014 08:39:16 UTC
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Server number:         7.0.57.0
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: OS Name:               Windows 7
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: OS Version:            6.1
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Architecture:          x86
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: JAVA_HOME:             C:\Program Files\Java\jdk1.8.0_40\jre
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: JVM Version:           1.8.0_40-b26
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: JVM Vendor:            Oracle Corporation
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: CATALINA_BASE:         C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: CATALINA_HOME:         C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djava.util.logging.config.file=C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\logging.properties
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djava.endorsed.dirs=C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\endorsed
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Dcatalina.base=C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Dcatalina.home=C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57
+abr 12, 2015 10:57:03 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMACIÓN: Command line argument: -Djava.io.tmpdir=C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\temp
+abr 12, 2015 10:57:03 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMACIÓN: La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.8.0_40\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Windows Live\Shared;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Internet Explorer;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\MiKTeX 2.9\miktex\bin\;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\xampp2\php;C:\ProgramData\Composer\bin;C:\Program Files\Java\jdk1.7.0_09\bin;C:\apache-ant-1.8.2\bin;C:\Program Files\Java\jdk1.7.0_09\bin;C:\Program Files\Java\jdk1.7.0_09\jre\bin;C:\Program Files\Java\jdk1.7.0_09\jre\bin\client;C:\Program Files\PostgreSQL\8.3\bin;.
+abr 12, 2015 10:57:41 PM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["http-bio-8080"]
+abr 12, 2015 10:57:41 PM org.apache.coyote.AbstractProtocol init
+INFORMACIÓN: Initializing ProtocolHandler ["ajp-bio-8009"]
+abr 12, 2015 10:57:41 PM org.apache.catalina.startup.Catalina load
+INFORMACIÓN: Initialization processed in 60293 ms
+abr 12, 2015 10:57:42 PM org.apache.catalina.core.StandardService startInternal
+INFORMACIÓN: Arrancando servicio Catalina
+abr 12, 2015 10:57:42 PM org.apache.catalina.core.StandardEngine startInternal
+INFORMACIÓN: Starting Servlet Engine: Apache Tomcat/7.0.57
+abr 12, 2015 10:57:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Desplieque del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\Chat.xml
+abr 12, 2015 10:57:42 PM org.apache.catalina.core.StandardContext resourcesStart
+GRAVE: Error arrancando Recursos estáticos
+java.lang.IllegalArgumentException: El Documento base C:\Users\aC-Ma_000\Documents\Chaat\Chat\build\web no existe o no es un directorio legible
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:136)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:5110)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5294)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:42 PM org.apache.catalina.core.ContainerBase addChildInternal
+GRAVE: ContainerBase.addChild: start: 
+org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Chat]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:154)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Error in resourceStart()
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5295)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+
+abr 12, 2015 10:57:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+GRAVE: Error durante el despliegue del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\Chat.xml
+java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Chat]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:904)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Deployment of configuration descriptor C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\Chat.xml has finished in 350 ms
+abr 12, 2015 10:57:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Desplieque del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\ChatDeadpool.xml
+abr 12, 2015 10:57:43 PM org.apache.catalina.core.StandardContext resourcesStart
+GRAVE: Error arrancando Recursos estáticos
+java.lang.IllegalArgumentException: El Documento base C:\Users\aC-Ma_000\Documents\NetBeansProjects\ChatDeadpool\build\web no existe o no es un directorio legible
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:136)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:5110)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5294)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:43 PM org.apache.catalina.core.ContainerBase addChildInternal
+GRAVE: ContainerBase.addChild: start: 
+org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ChatDeadpool]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:154)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Error in resourceStart()
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5295)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+
+abr 12, 2015 10:57:43 PM org.apache.catalina.startup.HostConfig deployDescriptor
+GRAVE: Error durante el despliegue del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\ChatDeadpool.xml
+java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ChatDeadpool]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:904)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:46 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Deployment of configuration descriptor C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\ChatDeadpool.xml has finished in 4.153 ms
+abr 12, 2015 10:57:46 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Desplieque del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\Chat_DeaadPool.xml
+abr 12, 2015 10:57:46 PM org.apache.catalina.core.StandardContext resourcesStart
+GRAVE: Error arrancando Recursos estáticos
+java.lang.IllegalArgumentException: El Documento base C:\Users\aC-Ma_000\Documents\NetBeansProjects\Chat_DeaadPool\build\web no existe o no es un directorio legible
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:136)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:5110)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5294)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:46 PM org.apache.catalina.core.ContainerBase addChildInternal
+GRAVE: ContainerBase.addChild: start: 
+org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Chat_DeaadPool]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:154)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Error in resourceStart()
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5295)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+
+abr 12, 2015 10:57:46 PM org.apache.catalina.startup.HostConfig deployDescriptor
+GRAVE: Error durante el despliegue del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\Chat_DeaadPool.xml
+java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Chat_DeaadPool]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:904)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:48 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Deployment of configuration descriptor C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\Chat_DeaadPool.xml has finished in 1.650 ms
+abr 12, 2015 10:57:48 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Desplieque del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\PhoneBook.xml
+abr 12, 2015 10:57:48 PM org.apache.catalina.core.StandardContext resourcesStart
+GRAVE: Error arrancando Recursos estáticos
+java.lang.IllegalArgumentException: El Documento base C:\Users\aC-Ma_000\Documents\ultimo4\PhoneBook\PhoneBook\build\web no existe o no es un directorio legible
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:136)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:5110)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5294)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:48 PM org.apache.catalina.core.ContainerBase addChildInternal
+GRAVE: ContainerBase.addChild: start: 
+org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PhoneBook]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:154)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Error in resourceStart()
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5295)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+
+abr 12, 2015 10:57:48 PM org.apache.catalina.startup.HostConfig deployDescriptor
+GRAVE: Error durante el despliegue del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\PhoneBook.xml
+java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PhoneBook]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:904)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:52 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Deployment of configuration descriptor C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\PhoneBook.xml has finished in 3.612 ms
+abr 12, 2015 10:57:52 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Desplieque del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\pruebaaa.xml
+abr 12, 2015 10:57:52 PM org.apache.catalina.core.StandardContext resourcesStart
+GRAVE: Error arrancando Recursos estáticos
+java.lang.IllegalArgumentException: El Documento base C:\Users\aC-Ma_000\Documents\NetBeansProjects\pruebaaa\build\web no existe o no es un directorio legible
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:136)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:5110)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5294)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:52 PM org.apache.catalina.core.ContainerBase addChildInternal
+GRAVE: ContainerBase.addChild: start: 
+org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pruebaaa]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:154)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Error in resourceStart()
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5295)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+
+abr 12, 2015 10:57:52 PM org.apache.catalina.startup.HostConfig deployDescriptor
+GRAVE: Error durante el despliegue del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\pruebaaa.xml
+java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pruebaaa]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:904)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:672)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1859)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 10:57:53 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Deployment of configuration descriptor C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\pruebaaa.xml has finished in 1.433 ms
+abr 12, 2015 10:57:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\docs de la aplicación web
+abr 12, 2015 10:58:01 PM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFORMACIÓN: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [1.640] milliseconds.
+abr 12, 2015 10:58:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\docs has finished in 7.841 ms
+abr 12, 2015 10:58:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\examples de la aplicación web
+abr 12, 2015 10:58:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\examples has finished in 3.372 ms
+abr 12, 2015 10:58:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\host-manager de la aplicación web
+abr 12, 2015 10:58:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\host-manager has finished in 323 ms
+abr 12, 2015 10:58:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\manager de la aplicación web
+abr 12, 2015 10:58:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\manager has finished in 247 ms
+abr 12, 2015 10:58:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Despliegue del directorio C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\ROOT de la aplicación web
+abr 12, 2015 10:58:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMACIÓN: Deployment of web application directory C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\webapps\ROOT has finished in 195 ms
+abr 12, 2015 10:58:05 PM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["http-bio-8080"]
+abr 12, 2015 10:58:06 PM org.apache.coyote.AbstractProtocol start
+INFORMACIÓN: Starting ProtocolHandler ["ajp-bio-8009"]
+abr 12, 2015 10:58:06 PM org.apache.catalina.startup.Catalina start
+INFORMACIÓN: Server startup in 24059 ms
+abr 12, 2015 11:20:39 PM org.apache.catalina.startup.HostConfig undeploy
+INFORMACIÓN: Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /PhoneBook
+abr 12, 2015 11:20:40 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Desplieque del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\PhoneBook.xml
+abr 12, 2015 11:20:48 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Deployment of configuration descriptor C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\PhoneBook.xml has finished in 8.597 ms
+abr 12, 2015 11:20:51 PM org.apache.catalina.util.LifecycleBase start
+INFORMACIÓN: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PhoneBook]] after start() had already been called. The second call will be ignored.
+abr 12, 2015 11:21:12 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Ha comenzado la recarga de Contexto [/PhoneBook]
+abr 12, 2015 11:21:13 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Se ha completado la recarga de este Contexto
+abr 12, 2015 11:22:09 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Ha comenzado la recarga de Contexto [/PhoneBook]
+abr 12, 2015 11:22:09 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Se ha completado la recarga de este Contexto
+abr 12, 2015 11:35:12 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Ha comenzado la recarga de Contexto [/PhoneBook]
+abr 12, 2015 11:35:12 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Se ha completado la recarga de este Contexto
+abr 12, 2015 11:35:21 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Ha comenzado la recarga de Contexto [/PhoneBook]
+abr 12, 2015 11:35:21 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Se ha completado la recarga de este Contexto
+abr 12, 2015 11:35:31 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Ha comenzado la recarga de Contexto [/PhoneBook]
+abr 12, 2015 11:35:32 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Se ha completado la recarga de este Contexto
+abr 12, 2015 11:47:21 PM org.apache.catalina.startup.HostConfig reload
+INFORMACIÓN: Falló la recarga del contexto [/PhoneBook]
+abr 12, 2015 11:47:21 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Ha comenzado la recarga de Contexto [/PhoneBook]
+abr 12, 2015 11:47:22 PM org.apache.catalina.core.StandardContext reload
+INFORMACIÓN: Se ha completado la recarga de este Contexto
+abr 12, 2015 11:47:52 PM org.apache.catalina.startup.HostConfig undeploy
+INFORMACIÓN: Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto /PhoneBook
+abr 12, 2015 11:47:52 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Desplieque del descriptor de configuración C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\PhoneBook.xml
+abr 12, 2015 11:47:53 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFORMACIÓN: Deployment of configuration descriptor C:\xampp3\htdocs\PhoneBook\Servidor Tomcat\apache-tomcat-7.0.57\conf\Catalina\localhost\PhoneBook.xml has finished in 621 ms

@@ -1,0 +1,80 @@
+abr 12, 2015 11:20:20 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+abr 12, 2015 11:20:20 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: init: Global resources are available
+abr 12, 2015 11:20:20 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:20:20 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: restart: Reloading web application '/PhoneBook'
+abr 12, 2015 11:20:20 PM org.apache.catalina.core.ApplicationContext log
+GRAVE: Manager: ManagerServlet.reload[/PhoneBook]
+java.lang.IllegalStateException: Aún no se ha arrancado el Contexto [/PhoneBook]
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3991)
+	at org.apache.catalina.manager.ManagerServlet.reload(ManagerServlet.java:982)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:378)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:108)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:612)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1070)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+abr 12, 2015 11:20:38 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:20:39 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:20:39 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: undeploy: Undeploying web application at '/PhoneBook'
+abr 12, 2015 11:20:40 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: install: Installing context configuration at 'file:/C:/Users/ANGELS~1/AppData/Local/Temp/context1760356842385009587.xml'
+abr 12, 2015 11:20:51 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: start: Starting web application '/PhoneBook'
+abr 12, 2015 11:21:12 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:21:12 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: restart: Reloading web application '/PhoneBook'
+abr 12, 2015 11:21:55 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:22:09 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:22:09 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: restart: Reloading web application '/PhoneBook'
+abr 12, 2015 11:35:12 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:35:12 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: restart: Reloading web application '/PhoneBook'
+abr 12, 2015 11:35:20 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:35:21 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: restart: Reloading web application '/PhoneBook'
+abr 12, 2015 11:35:31 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:35:31 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: restart: Reloading web application '/PhoneBook'
+abr 12, 2015 11:47:50 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:47:50 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: list: Listing contexts for virtual host 'localhost'
+abr 12, 2015 11:47:51 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: undeploy: Undeploying web application at '/PhoneBook'
+abr 12, 2015 11:47:52 PM org.apache.catalina.core.ApplicationContext log
+INFORMACIÓN: Manager: install: Installing context configuration at 'file:/C:/Users/ANGELS~1/AppData/Local/Temp/context176911236566854003.xml'
